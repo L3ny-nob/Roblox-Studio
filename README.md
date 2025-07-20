@@ -15,6 +15,7 @@ local packageId = "yourId"
 <img width="2137" height="55" alt="RobloxStudioBeta_ToqGOtknXc" src="https://github.com/user-attachments/assets/fa0d8da9-8a7d-46e6-a7a7-068e7fff4f8a" />
 
 **[Small notes]**
+- The UI is resizable, and there's a scale function to scale the UI in the Utility module.
 - Toggle, Slider is finished
 - ColorPicker, Dropdown, TextBox, Buttons, Popups, are unfinished
 - "Settings" are case insensitive, example below
