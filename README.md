@@ -18,11 +18,15 @@ local packageId = "yourId"
 - Toggle, Slider is finished
 - ColorPicker, Dropdown, TextBox, Buttons, Popups, are unfinished
 - "Settings" are case insensitive, example below
-
 ```
 Library:createTab({texT = "hi"}) 
 Library:createTab({text = "wow"}))
 ```
+- You can change the theme with changing the folder with the theme attributes if the Library is executed
+![RobloxStudioBeta_fdSIHqdag1](https://github.com/user-attachments/assets/271c75d5-ad80-4a64-a4e5-918b382a17c3)
+
+- There are priority tags for theme, and you can add tags to objects to make them change colors corresponding to the attribute.
+<img width="354" height="130" alt="RobloxStudioBeta_RGnC6VTT1M" src="https://github.com/user-attachments/assets/cbe19b93-c71d-482d-9b0c-0012017393c1" />
 
 **[Picture]**
 
